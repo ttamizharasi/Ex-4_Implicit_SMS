@@ -1,4 +1,3 @@
-
 # Ex.No:4 Design an android application Send SMS using Intent.
 
 
@@ -92,9 +91,12 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
+
 ![image](https://github.com/user-attachments/assets/ec40a8f2-a057-4e96-8f75-2703828013a8)
 
+
 ![image](https://github.com/user-attachments/assets/5ad22f55-6e81-485b-abce-0d37f8fa5e6e)
+
 
 ![image](https://github.com/user-attachments/assets/fdb0590a-8ced-4dae-b52d-11ab7d77f1c8)
 
